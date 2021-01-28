@@ -57,7 +57,6 @@ public class RegularExpression {
         // ========================= 7 ============================= //
         globalCounter = 0;
         System.out.println("Part 7:");
-      //  fileReader(sameLettersOfFour, true);
         fileReader(sameLettersOfFour,false);
         System.out.println("Amount of words with same 4 letters: " + globalCounter);
         // ========================= 8 ============================= //
